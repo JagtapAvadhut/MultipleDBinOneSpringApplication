@@ -1,0 +1,13 @@
+com\SpringDb\MultipleDBinOneSpringApplication.class
+com\SpringDb\postgresSQL\config\PostgresSQLConfig.class
+com\SpringDb\mysql\entites\User.class
+com\SpringDb\postgresSQL\repository\CompanyRepo.class
+com\SpringDb\mongodb\config\MongoDBConfig.class
+com\SpringDb\mysql\entites\User$UserBuilder.class
+com\SpringDb\postgresSQL\entities\Company$CompanyBuilder.class
+com\SpringDb\mysql\repository\UserRepo.class
+com\SpringDb\mongodb\repository\ProductRepo.class
+com\SpringDb\postgresSQL\entities\Company.class
+com\SpringDb\mongodb\entites\Product$ProductBuilder.class
+com\SpringDb\mongodb\entites\Product.class
+com\SpringDb\mysql\config\MySQLConfig.class

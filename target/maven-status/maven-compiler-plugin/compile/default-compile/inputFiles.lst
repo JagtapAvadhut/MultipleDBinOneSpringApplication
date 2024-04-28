@@ -1,0 +1,10 @@
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\mysql\config\MySQLConfig.java
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\mysql\entites\User.java
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\mongodb\entites\Product.java
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\postgresSQL\entities\Company.java
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\postgresSQL\repository\CompanyRepo.java
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\postgresSQL\config\PostgresSQLConfig.java
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\mongodb\config\MongoDBConfig.java
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\mongodb\repository\ProductRepo.java
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\MultipleDBinOneSpringApplication.java
+D:\Mobiloitte\MultipleDBinOneSpringApplication\src\main\java\com\SpringDb\mysql\repository\UserRepo.java
